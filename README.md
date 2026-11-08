@@ -194,3 +194,6 @@ This repository serves as the official landing page for SQLite Viewer & Editor. 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SQLite Viewer & Editor today!**
+
+---
+**Last updated:** 2026-11-08 15:40:11 UTC
