@@ -196,4 +196,4 @@ This repository serves as the official landing page for SQLite Viewer & Editor. 
 **Get the most recent version of SQLite Viewer & Editor today!**
 
 ---
-**Last updated:** 2026-11-13 18:17:43 UTC
+**Last updated:** 2026-11-14 00:02:11 UTC
